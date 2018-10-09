@@ -6,8 +6,9 @@ tip:Review and consolidate skills
 
 一、项目起步
   （1）目录的设计与构建
-    1./db模拟数据
+    1./db模，拟数据
     2./node_modules，npm安装的依赖库
+    3./service，服务器，接口
   （2）软件与环境的搭建
   （3）命令行创建文件
   （4）素材的收集与剪裁
