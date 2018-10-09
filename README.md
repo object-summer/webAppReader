@@ -10,6 +10,7 @@ tip:Review and consolidate skills
     2./node_modules，npm安装的依赖库
     3./service，服务器，接口
     4./static，静态文件（js、css、img...）
+    
   （2）软件与环境的搭建
   （3）命令行创建文件
   （4）素材的收集与剪裁
