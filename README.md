@@ -11,6 +11,7 @@ tip:Review and consolidate skills
     3./service，服务器，接口
     4./static，静态文件（js、css、img...）
     5./view,模板文件，视图
+    6.app.js，这是项目的入口文件
    
   （2）软件与环境的搭建
   （3）命令行创建文件
