@@ -12,7 +12,7 @@ tip:Review and consolidate skills
     4./static，静态文件（js、css、img...）
     5./view,模板文件，视图
     6.app.js，这是项目的入口文件
-   
+    7.package.json，这是包文件
   （2）软件与环境的搭建
   （3）命令行创建文件
   （4）素材的收集与剪裁
