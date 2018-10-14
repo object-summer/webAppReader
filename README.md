@@ -1,4 +1,4 @@
-###webAppReader阅读器
+### webAppReader阅读器
 >time：20018.7
 >auther:will han
 
@@ -17,7 +17,7 @@
   npm run dev
 ```
 
-## 一、项目起步
+#  一、项目起步
   #（1）目录的设计与构建
     1./db模，拟数据
     2./node_modules，npm安装的依赖库
