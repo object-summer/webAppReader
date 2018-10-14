@@ -3,6 +3,18 @@
 >auther:will han
 >description：【webAppReader】This is a review program to review the previous basis
 >tip:Review and consolidate skills
+## 使用方法
+
+``` bash
+1.Download the project
+git clone git@github.com/object-summer/webAppReader.git or Download directly from this page
+2.Enter project directory
+cd webAppReader
+3.install dependencies
+npm install
+4.serve with hot reload at localhost:3000
+npm run dev
+```
 
 一、项目起步
   （1）目录的设计与构建
