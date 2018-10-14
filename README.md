@@ -9,16 +9,14 @@
 ##  安装步骤
 
 ``` bash
-1.Download the project
-  git clone git@github.com/object-summer/webAppReader.git or Download directly from this page
   
-2.Enter project directory
+#.Enter project directory
   cd webAppReader
 
-3.install dependencies
+#.install dependencies
   npm install
 
-4.serve with hot reload at localhost:3000
+#.serve with hot reload at localhost:3000
   npm run dev
 ```
 
