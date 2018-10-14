@@ -6,17 +6,20 @@
 
 >tip:Review and consolidate skills
 
-# 使用方法
+##  安装步骤
 
 ``` bash
 1.Download the project
-git clone git@github.com/object-summer/webAppReader.git or Download directly from this page
+  git clone git@github.com/object-summer/webAppReader.git or Download directly from this page
+  
 2.Enter project directory
-cd webAppReader
+  cd webAppReader
+
 3.install dependencies
-npm install
+  npm install
+
 4.serve with hot reload at localhost:3000
-npm run dev
+  npm run dev
 ```
 
 ## 一、项目起步
