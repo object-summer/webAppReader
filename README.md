@@ -10,9 +10,6 @@
 
 ``` bash
   
-#.Enter project directory
-  cd webAppReader
-
 #.install dependencies
   npm install
 
